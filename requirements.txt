@@ -1,6 +1,6 @@
-numpy
 opencv-python-headless
 mediapipe
+numpy
 scikit-learn
 xgboost
 joblib
